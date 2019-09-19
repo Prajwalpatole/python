@@ -1,0 +1,4 @@
+fact=1
+a=int(input("enter the number"))
+fact=fact*a
+print("factorial of number is:",fact)
